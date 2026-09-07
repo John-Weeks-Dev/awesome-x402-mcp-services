@@ -23,6 +23,9 @@ Curated list of awesome commercial services that require x402 payments and use M
    - [Example Applications](https://github.com/xpaysh/awesome-x402?tab=readme-ov-file#-example-applications)
 - [xpaysh/awesome-mcp-monetization](https://github.com/xpaysh/awesome-mcp-monetization)
 - [xpaysh/awesome-agentic-economy](https://github.com/xpaysh/awesome-agentic-economy)
+- [piprail/piprail](https://github.com/piprail/piprail) - MIT-licensed TypeScript SDK and MCP server for x402 across 29 chains, verified against your own RPC node.
+   - [Documentation](https://docs.piprail.com)
+   - [MCP client setup](https://docs.piprail.com/mcp/client-setup/)
 
 ## Contributing
 
